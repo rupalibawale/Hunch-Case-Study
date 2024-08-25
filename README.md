@@ -1,6 +1,6 @@
 Overview
 
-I participated in the PM School Hunch Case Study where the challenge was to improve Hunch, a social media app for GenZ that focuses on meaningful discussions through polls. My task was to identify and address user pain points while proposing new features that enhance engagement, gamification, and interactivity on the platform.
+I participated in the PM School Hunch Case Study (https://pmschool.io/ChallengeDetails?state=past&id=66819bc9e556ac3d56ebec3d) where the challenge was to improve Hunch, a social media app for GenZ that focuses on meaningful discussions through polls. My task was to identify and address user pain points while proposing new features that enhance engagement, gamification, and interactivity on the platform.
 Proposed Features
 
     1. Poll Challenges and Contests
